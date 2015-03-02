@@ -1,0 +1,38 @@
+body{
+	color:black;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.draggable{
+border-radius:50%;
+width: 50px;
+height: 50px;
+padding: 0.5em;
+}
+
+.resizable{
+border:1px solid #888;
+background-color: black;
+width: 50%;
+height:50%;
+}
+
+#container-1{
+	width:300px;
+}
+
+#container-2{
+	width:300px;
+}
+#container-3{
+	width:300px;
+}
+
+#container-4{
+	width:300px;
+}
